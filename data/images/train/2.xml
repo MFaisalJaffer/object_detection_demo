@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>319</xmin>
-			<ymin>52</ymin>
-			<xmax>472</xmax>
-			<ymax>251</ymax>
+			<xmin>284</xmin>
+			<ymin>109</ymin>
+			<xmax>397</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>211</xmin>
-			<ymin>361</ymin>
-			<xmax>292</xmax>
-			<ymax>487</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>thumbup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>471</xmin>
-			<ymin>381</ymin>
-			<xmax>573</xmax>
-			<ymax>516</ymax>
+			<xmin>494</xmin>
+			<ymin>295</ymin>
+			<xmax>630</xmax>
+			<ymax>479</ymax>
 		</bndbox>
 	</object>
 </annotation>

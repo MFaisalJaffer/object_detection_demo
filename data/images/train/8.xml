@@ -11,16 +11,4 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>thumbup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>92</xmin>
-			<ymin>76</ymin>
-			<xmax>190</xmax>
-			<ymax>167</ymax>
-		</bndbox>
-	</object>
 </annotation>

@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>thumbup</name>
+		<name>smile</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>260</xmin>
-			<ymin>229</ymin>
-			<xmax>500</xmax>
-			<ymax>445</ymax>
+			<xmin>274</xmin>
+			<ymin>101</ymin>
+			<xmax>562</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 </annotation>
